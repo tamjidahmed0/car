@@ -3,7 +3,7 @@ import '@/styles/globals.css'
 
 
 export const  metadata = {
-    title:'Tamjid Ahmed',
+    title:'Car Show case',
     description:'this is tamjid ahmed website'
 }
 
